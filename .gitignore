@@ -1,0 +1,6 @@
+# files to be ignored by .gitignore
+.doc
+.xls
+.pdf
+.xps
+
